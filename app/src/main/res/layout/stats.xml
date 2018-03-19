@@ -15,7 +15,7 @@
             android:layout_height="wrap_content"
             android:text="Credits"
             android:textSize="35dp"
-            android:layout_weight="1"/>
+            android:layout_weight="3"/>
         <TextView
             android:layout_width="0dp"
             android:layout_height="wrap_content"
@@ -35,7 +35,7 @@
             android:layout_height="wrap_content"
             android:text="Explored"
             android:textSize="35dp"
-            android:layout_weight="1"/>
+            android:layout_weight="3"/>
         <TextView
             android:layout_width="0dp"
             android:layout_height="wrap_content"
@@ -53,9 +53,9 @@
         <TextView
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:text="Hints"
+            android:text="Hints Explored"
             android:textSize="35dp"
-            android:layout_weight="1"/>
+            android:layout_weight="3"/>
         <TextView
             android:layout_width="0dp"
             android:layout_height="wrap_content"
@@ -75,7 +75,7 @@
             android:layout_height="wrap_content"
             android:text="Expenditure"
             android:textSize="35dp"
-            android:layout_weight="1"/>
+            android:layout_weight="3"/>
         <TextView
             android:layout_width="0dp"
             android:layout_height="wrap_content"
