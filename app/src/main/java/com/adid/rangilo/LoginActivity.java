@@ -4,6 +4,7 @@ import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
 import android.annotation.TargetApi;
 import android.content.pm.PackageManager;
+import android.graphics.Color;
 import android.support.annotation.NonNull;
 import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
@@ -27,6 +28,7 @@ import android.widget.ArrayAdapter;
 import android.widget.AutoCompleteTextView;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import java.util.ArrayList;
@@ -346,5 +348,28 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
             showProgress(false);
         }
     }
+
+    // switch sign up GUI
+    public void signupgui(View v) {
+        TextView tv = (TextView) findViewById(R.id.tvsignin);
+        Button btn = (Button) findViewById(R.id.btnsignin);
+        LinearLayout layout = (LinearLayout) findViewById(R.id.signup);
+        v.setBackgroundColor(Color.parseColor("#cccccc"));
+        btn.setVisibility(View.GONE);
+        tv.setBackgroundColor(Color.parseColor("#eeeeee"));
+        layout.setVisibility(View.VISIBLE);
+    }
+
+    // switch sign in GUI
+    public void signingui(View v) {
+        TextView tv = (TextView) findViewById(R.id.tvsignup);
+        Button btn = (Button) findViewById(R.id.btnsignin);
+        LinearLayout layout = (LinearLayout) findViewById(R.id.signup);
+        v.setBackgroundColor(Color.parseColor("#cccccc"));
+        btn.setVisibility(View.VISIBLE);
+        tv.setBackgroundColor(Color.parseColor("#eeeeee"));
+        layout.setVisibility(View.GONE);
+    }
+
 }
 
