@@ -41,6 +41,7 @@ import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
+import com.google.firebase.firestore.CollectionReference;
 import com.google.firebase.firestore.DocumentReference;
 import com.google.firebase.firestore.FirebaseFirestore;
 
@@ -218,22 +219,17 @@ public class LoginActivity extends AppCompatActivity {
         String[] parts = email.split("@");
         email = parts[0];
 
-        Map<String,Object> user=new HashMap<>();
-        user.put("username",""+email);
-        db.collection("users")
-                .add(user)
-                .addOnSuccessListener(new OnSuccessListener<DocumentReference>() {
-                    @Override
-                    public void onSuccess(DocumentReference documentReference) {
-                        Log.d("data", "successfully added");
-                    }
-                })
-                .addOnFailureListener(new OnFailureListener() {
-                    @Override
-                    public void onFailure(@NonNull Exception e) {
-                        Log.w("tag", "error");
-                    }
-                });
+        CollectionReference users = db.collection("users");
+
+        Map<String, Object> data1 = new HashMap<>();
+        data1.put("credits", "100");
+        data1.put("wallet", "0");
+        users.document(""+email).set(data1);
+
+        CollectionReference visited = db.collection("users/"+email+"/visited");
+
+        Map<String, Object> data2 = new HashMap<>();
+        visited.document("coordinates").set(data2);
     }
 
     // switch sign up GUI
