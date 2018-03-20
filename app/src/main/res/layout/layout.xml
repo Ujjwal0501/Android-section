@@ -110,15 +110,28 @@
         </LinearLayout>
 
     </ScrollView>
-    <Button
-        android:id="@+id/chatbox"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="-50dp"
-        android:layout_gravity="end"
-        android:textAlignment="center"
-        android:textSize="16dp"
-        android:text="CHAT"
-        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="horizontal"
+        android:layout_marginTop="-100dp">
+        <TextView
+            android:id="@+id/tvloc"
+            android:layout_weight="3"
+            android:layout_width="0dp"
+            android:text="location is shown here"
+            android:layout_height="wrap_content"/>
+        <Button
+            android:id="@+id/chatbox"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-50dp"
+            android:layout_gravity="end"
+            android:textAlignment="center"
+            android:textSize="16dp"
+            android:text="CHAT"
+            />
+    </LinearLayout>
 
 </LinearLayout>
