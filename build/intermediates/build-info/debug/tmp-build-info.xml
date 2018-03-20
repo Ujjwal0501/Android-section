@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    build-mode="FULL"
+    density="xhdpi"
+    format="10"
+    plugin-version="3.0.1"
+    timestamp="1521588472963"
+    token="3737884074468362935"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="5300" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="4373" />
+    <task
+        name="verifier"
+        duration="7024" />
+
+    <artifact
+        location="C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
+
+</instant-run>

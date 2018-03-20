@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="mehrgarh2" size="5.000000 2.812500" />
+    <ImageTarget name="mehrgarh" size="5.000000 3.322727" />
+    <ImageTarget name="BadiMahal" size="5.000000 2.808219" />
+    <ImageTarget name="Udaipur-City-Palace-7" size="5.000000 3.331395" />
+    <ImageTarget name="citypalace" size="5.000000 4.786458" />
+    <ImageTarget name="amber" size="5.000000 3.333333" />
+  </Tracking>
+</QCARConfig>

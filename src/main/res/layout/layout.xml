@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.adid.Rangilo.MainActivity"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/tvbal"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:layout_margin="6dp"
+            android:layout_marginRight="20dp"
+            android:textSize="16dp"
+            android:text="Wallet"/>
+        <Button
+            android:id="@+id/startar"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:layout_margin="6dp"
+            android:layout_marginLeft="20dp"
+            android:textSize="16dp"
+            android:text="Start AR"/>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/stats"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:clickable="true"
+            android:onClick="showexp"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_margin="6dp">
+
+            <TextView
+                android:id="@+id/tvexp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="6dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="25%"
+                android:textSize="35dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Explored"
+                android:gravity="center"/>
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/llcredit"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_margin="6dp">
+
+            <TextView
+                android:id="@+id/tvcredit"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="6dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="25%"
+                android:textSize="35dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Credits"
+                android:gravity="center"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_margin="6dp">
+
+            <TextView
+                android:id="@+id/tvspent"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="6dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="25%"
+                android:textSize="35dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Spent"
+                android:gravity="center"/>
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:textStyle="bold"
+                android:paddingLeft="20dp"
+                android:textSize="32sp"
+                android:layout_marginTop="16dp"
+                android:text="Contests"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:orientation="vertical"
+                android:layout_marginBottom="6dp">
+                <TextView
+                    android:id="@+id/textout"
+                    android:clickable="true"
+                    android:text="Title"
+                    android:onClick="contest1"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_margin="2dp"
+                    android:layout_alignParentLeft="true"
+                    android:textSize="23dp"
+                    android:paddingLeft="5dp"
+                    android:background="#ffffffff"/>
+                <TextView
+                    android:clickable="true"
+                    android:onClick="contest1"
+                    android:text="Description with details"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_margin="2dp"
+                    android:layout_alignParentLeft="true"
+                    android:textSize="23dp"
+                    android:paddingLeft="5dp"
+                    android:background="#ffffffff"/>
+                <TextView
+                    android:clickable="true"
+                    android:onClick="contest1"
+                    android:text="Points/Credits on win"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_margin="2dp"
+                    android:layout_alignParentLeft="true"
+                    android:textSize="23dp"
+                    android:paddingLeft="5dp"
+                    android:background="#ffffffff"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:orientation="vertical"
+                android:layout_marginTop="6dp">
+                <TextView
+                    android:id="@+id/textout1"
+                    android:clickable="true"
+                    android:text="Title"
+                    android:onClick="contest1"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_margin="2dp"
+                    android:layout_alignParentLeft="true"
+                    android:textSize="23dp"
+                    android:paddingLeft="5dp"
+                    android:background="#ffffffff"/>
+                <TextView
+                    android:clickable="true"
+                    android:text="Description"
+                    android:onClick="contest1"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_margin="2dp"
+                    android:layout_alignParentLeft="true"
+                    android:textSize="23dp"
+                    android:paddingLeft="5dp"
+                    android:background="#ffffffff"/>
+                <TextView
+                    android:clickable="true"
+                    android:onClick="contest1"
+                    android:text="Points/Credits on win"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_margin="2dp"
+                    android:layout_alignParentLeft="true"
+                    android:textSize="23dp"
+                    android:paddingLeft="5dp"
+                    android:background="#ffffffff"/>
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

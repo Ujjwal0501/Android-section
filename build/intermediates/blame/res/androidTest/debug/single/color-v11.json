@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

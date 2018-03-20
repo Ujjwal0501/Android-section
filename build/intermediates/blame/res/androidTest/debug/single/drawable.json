@@ -1,0 +1,258 @@
+[
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\390afd1c7513e4e4dbedf23bd2e4ec7f\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\390afd1c7513e4e4dbedf23bd2e4ec7f\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\390afd1c7513e4e4dbedf23bd2e4ec7f\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\design-textfield-28.0.0-alpha1.aar\\d5a9b8ede1eb7c54d3273d6b14023d36\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\390afd1c7513e4e4dbedf23bd2e4ec7f\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\design-internal-28.0.0-alpha1.aar\\2db976579de6a8048a2a254a120a555f\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\design-widget-28.0.0-alpha1.aar\\833ab39f3af3ab05c91e88867b528c12\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\design-internal-28.0.0-alpha1.aar\\2db976579de6a8048a2a254a120a555f\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\390afd1c7513e4e4dbedf23bd2e4ec7f\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\390afd1c7513e4e4dbedf23bd2e4ec7f\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\design-floatingactionbutton-28.0.0-alpha1.aar\\ccdc993a64666f95a2342e8d7be345f4\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_mtrl_chip_checked_black.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\design-chip-28.0.0-alpha1.aar\\e0331ceb88877a2339163aba048485a7\\res\\drawable\\ic_mtrl_chip_checked_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\390afd1c7513e4e4dbedf23bd2e4ec7f\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\390afd1c7513e4e4dbedf23bd2e4ec7f\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha1.aar\\3a3e37bd2e3953fdc40605070e723252\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\390afd1c7513e4e4dbedf23bd2e4ec7f\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\390afd1c7513e4e4dbedf23bd2e4ec7f\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\390afd1c7513e4e4dbedf23bd2e4ec7f\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\390afd1c7513e4e4dbedf23bd2e4ec7f\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_mtrl_chip_checked_circle.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\design-chip-28.0.0-alpha1.aar\\e0331ceb88877a2339163aba048485a7\\res\\drawable\\ic_mtrl_chip_checked_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha1.aar\\3a3e37bd2e3953fdc40605070e723252\\res\\drawable\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_mtrl_chip_close_circle.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\design-chip-28.0.0-alpha1.aar\\e0331ceb88877a2339163aba048485a7\\res\\drawable\\ic_mtrl_chip_close_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\390afd1c7513e4e4dbedf23bd2e4ec7f\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\390afd1c7513e4e4dbedf23bd2e4ec7f\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha1.aar\\3a3e37bd2e3953fdc40605070e723252\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mtrl_tabs_default_indicator.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\design-tabs-28.0.0-alpha1.aar\\4a5a631b577b186397c6729440cbc27d\\res\\drawable\\mtrl_tabs_default_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\drawable\\notification_tile_bg.xml"
+    }
+]

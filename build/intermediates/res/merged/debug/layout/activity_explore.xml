@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.adid.Rangilo.Explore"
+    android:orientation="vertical">
+
+    <TextView
+        android:padding="2dp"
+        android:text="Here you will see which major tourist spots you have visited in a city, and which are yet to visit by you."
+        android:layout_marginBottom="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <TextView
+                    android:textStyle="bold"
+                    android:paddingLeft="20dp"
+                    android:textSize="32sp"
+                    android:layout_marginTop="16dp"
+                    android:text="Visited"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+                <LinearLayout
+                    android:background="#aaaaaa"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginRight="16dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="2dp"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+                    <TextView
+                        android:textStyle="normal"
+                        android:paddingLeft="24dp"
+                        android:textSize="20sp"
+                        android:layout_marginTop="16dp"
+                        android:text="1. Amber Fort"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                    <TextView
+                        android:paddingLeft="45dp"
+                        android:text="Amer, originally, was the capital of the state before Jaipur. It is an old fort, built in 1592 by Raja Man Singh."
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>
+                <TextView
+                    android:textStyle="normal"
+                    android:paddingLeft="20dp"
+                    android:textSize="20sp"
+                    android:layout_marginTop="16dp"
+                    android:text="2. Location with detail"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:textStyle="normal"
+                    android:paddingLeft="20dp"
+                    android:textSize="20sp"
+                    android:layout_marginTop="16dp"
+                    android:text="3. Location with detail"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:textStyle="normal"
+                    android:paddingLeft="20dp"
+                    android:textSize="20sp"
+                    android:layout_marginTop="16dp"
+                    android:text="4. Location with detail"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <TextView
+                    android:textStyle="bold"
+                    android:paddingLeft="20dp"
+                    android:textSize="32sp"
+                    android:layout_marginTop="16dp"
+                    android:text="Not Visited"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+                <LinearLayout
+                    android:background="#aaaaaa"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginRight="16dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="2dp"/>
+
+                <TextView
+                    android:textStyle="normal"
+                    android:paddingLeft="20dp"
+                    android:textSize="20sp"
+                    android:layout_marginTop="16dp"
+                    android:text="1. Location with detail"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:textStyle="normal"
+                    android:paddingLeft="20dp"
+                    android:textSize="20sp"
+                    android:layout_marginTop="16dp"
+                    android:text="2. Location with detail"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:textStyle="normal"
+                    android:paddingLeft="20dp"
+                    android:textSize="20sp"
+                    android:layout_marginTop="16dp"
+                    android:text="3. Location with detail"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:textStyle="normal"
+                    android:paddingLeft="20dp"
+                    android:textSize="20sp"
+                    android:layout_marginTop="16dp"
+                    android:text="4. Location with detail"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
