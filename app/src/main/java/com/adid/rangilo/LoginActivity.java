@@ -35,13 +35,19 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.google.android.gms.tasks.OnCompleteListener;
+import com.google.android.gms.tasks.OnFailureListener;
+import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
+import com.google.firebase.firestore.DocumentReference;
+import com.google.firebase.firestore.FirebaseFirestore;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 import static android.Manifest.permission.READ_CONTACTS;
 
@@ -49,6 +55,7 @@ import static android.Manifest.permission.READ_CONTACTS;
  * A login screen that offers login via email/password.
  */
 public class LoginActivity extends AppCompatActivity {
+    FirebaseFirestore db =FirebaseFirestore.getInstance();
     Button skip;
     private FirebaseAuth mAuth;
 
@@ -98,6 +105,9 @@ public class LoginActivity extends AppCompatActivity {
 
                 String password = mPasswordView.getText().toString();
                 if (password.equals("")) {
+                    mPasswordView.setError("Password must be at least 6 characters long!");
+                    return;
+                } else if (password.length()<6) {
                     mPasswordView.setError("Password cannot be empty!");
                     return;
                 }
@@ -159,6 +169,8 @@ public class LoginActivity extends AppCompatActivity {
                             Log.d("login", "signInWithEmail:success");
                             FirebaseUser user = mAuth.getCurrentUser();
                             // updateUI(user);
+                            startActivity(new Intent(LoginActivity.this, MainActivity.class));
+                            finish();
                         } else {
                             // If sign in fails, display a message to the user.
                             Log.w("login", "signInWithEmail:failure", task.getException());
@@ -182,6 +194,11 @@ public class LoginActivity extends AppCompatActivity {
                             Log.d("SignUP success", "createUserWithEmail:success");
                             FirebaseUser user = mAuth.getCurrentUser();
                             // updateUI(user);
+                            TextView tv = (TextView) findViewById(R.id.tvsignin);
+                            signingui(tv);
+                            Toast.makeText(LoginActivity.this, "Sign in to continue.",
+                                    Toast.LENGTH_SHORT).show();
+                            initUser();
                         } else {
                             // If sign in fails, display a message to the user.
                             Log.w("SignUP failed", "createUserWithEmail:failure", task.getException());
@@ -195,6 +212,30 @@ public class LoginActivity extends AppCompatActivity {
                 });
     }
 
+    public void initUser(){
+        TextView tv = (TextView) findViewById(R.id.email);
+        String email = tv.getText().toString();
+        String[] parts = email.split("@");
+        email = parts[0];
+
+        Map<String,Object> user=new HashMap<>();
+        user.put("username",""+email);
+        db.collection("users")
+                .add(user)
+                .addOnSuccessListener(new OnSuccessListener<DocumentReference>() {
+                    @Override
+                    public void onSuccess(DocumentReference documentReference) {
+                        Log.d("data", "successfully added");
+                    }
+                })
+                .addOnFailureListener(new OnFailureListener() {
+                    @Override
+                    public void onFailure(@NonNull Exception e) {
+                        Log.w("tag", "error");
+                    }
+                });
+    }
+
     // switch sign up GUI
     public void signupgui(View v) {
         TextView tv = (TextView) findViewById(R.id.tvsignin);
@@ -204,6 +245,7 @@ public class LoginActivity extends AppCompatActivity {
         btn.setVisibility(View.GONE);
         tv.setBackgroundColor(Color.parseColor("#eeeeee"));
         layout.setVisibility(View.VISIBLE);
+
     }
 
     // switch sign in GUI
