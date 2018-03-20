@@ -12,6 +12,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
+import android.widget.LinearLayout;
 import android.widget.TabHost;
 import android.widget.TextView;
 
@@ -39,6 +40,7 @@ public class MainActivity extends AppCompatActivity {
     final int MY_PERMISSIONS_REQUEST_ACCESS_FINE_LOCATION = 1;
     String str = "", email;
     TextView tvbal, tvexp, tvspent, tvcredit;
+    LinearLayout llcredit;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -48,11 +50,18 @@ public class MainActivity extends AppCompatActivity {
         email = getIntent().getExtras().getString("mail");
         String[] parts = email.split("@");
         email = parts[0];
-        ch = (Button) findViewById(R.id.chatbox);
         tvbal = (TextView) findViewById(R.id.tvbal);
         tvexp = (TextView) findViewById(R.id.tvexp);
         tvspent = (TextView) findViewById(R.id.tvspent);
         tvcredit = (TextView) findViewById(R.id.tvcredit);
+        llcredit = (LinearLayout) findViewById(R.id.llcredit);
+
+        llcredit.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                getCredit();
+            }
+        });
 
         tvbal.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -61,12 +70,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        ch.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                getLoc();
-            }
-        });
         mFusedLocationClient = LocationServices.getFusedLocationProviderClient(this);
 
         updateContent();
@@ -116,7 +119,7 @@ public class MainActivity extends AppCompatActivity {
         return ""+wallet;
     }
 
-    private void getCredit() {
+    public void getCredit() {
         DocumentReference docRef = db.collection("users").document(""+email);
         docRef.get().addOnCompleteListener(new OnCompleteListener<DocumentSnapshot>() {
             @Override
@@ -222,21 +225,17 @@ public class MainActivity extends AppCompatActivity {
         // TODO
     }
 
+    public void showexp(View v) {
+        startActivity(new Intent(MainActivity.this, Explore.class));
+    }
+
     public void contest1(View v) {
         Intent mIntent = new Intent(MainActivity.this, ContestDisplay.class);
-        Bundle mbundle = new Bundle();
-        String str = "This will show the details of the contest, like what is it related to, etc";
-        mbundle.putString("contest",""+str);
-        mIntent.putExtras(mbundle);
         startActivity(mIntent);
     }
 
     public void contest2(View v) {
         Intent mIntent = new Intent(MainActivity.this, ContestDisplay.class);
-        Bundle mbundle = new Bundle();
-        String str = "This will show the details of the contest, like what is it related to, etc";
-        mbundle.putString("contest",""+str);
-        mIntent.putExtras(mbundle);
         startActivity(mIntent);
     }
 }
