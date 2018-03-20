@@ -153,7 +153,7 @@ public class LoginActivity extends AppCompatActivity {
         }
     }
 
-    private void attemptLogin(String email, String password) {
+    private void attemptLogin(final String email, String password) {
         if (email.equals(null)) {
             Log.e("empty", "empty email");
             return;
@@ -170,7 +170,11 @@ public class LoginActivity extends AppCompatActivity {
                             Log.d("login", "signInWithEmail:success");
                             FirebaseUser user = mAuth.getCurrentUser();
                             // updateUI(user);
-                            startActivity(new Intent(LoginActivity.this, MainActivity.class));
+                            Intent mintent = new Intent(LoginActivity.this, MainActivity.class);
+                            Bundle mbundle = new Bundle();
+                            mbundle.putString("mail", ""+email);
+                            mintent.putExtras(mbundle);
+                            startActivity(mintent);
                             finish();
                         } else {
                             // If sign in fails, display a message to the user.
