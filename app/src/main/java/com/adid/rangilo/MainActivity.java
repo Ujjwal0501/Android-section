@@ -39,7 +39,6 @@ public class MainActivity extends AppCompatActivity {
     final int MY_PERMISSIONS_REQUEST_ACCESS_FINE_LOCATION = 1;
     String str = "", email;
     TextView tvbal, tvexp, tvspent, tvcredit;
-    TabHost TabHostWindow;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -55,6 +54,13 @@ public class MainActivity extends AppCompatActivity {
         tvspent = (TextView) findViewById(R.id.tvspent);
         tvcredit = (TextView) findViewById(R.id.tvcredit);
 
+        tvbal.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                tvbal.setText(getBalance());
+            }
+        });
+
         ch.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -66,27 +72,6 @@ public class MainActivity extends AppCompatActivity {
         updateContent();
         createLocationRequest();
 
-        //Assign id to Tabhost.
-        TabHostWindow = (TabHost)findViewById(android.R.id.tabhost);
-
-        //Creating tab menu.
-        TabHost.TabSpec TabMenu1 = TabHostWindow.newTabSpec("First");
-        TabHost.TabSpec TabMenu2 = TabHostWindow.newTabSpec("Second");
-
-        //Setting up tab 1 name.
-        TabMenu1.setIndicator("Places Visited");
-        //Set tab 1 activity to tab 1 menu.
-        TabMenu1.setContent(new Intent(this,MainActivity.class));
-
-        //Setting up tab 2 name.
-        TabMenu2.setIndicator("Contests");
-        //Set tab 3 activity to tab 1 menu.
-        TabMenu2.setContent(new Intent(this,MainActivity.class));
-
-        //Adding tab1, tab2, tab3 to tabhost view.
-
-        TabHostWindow.addTab(TabMenu1);
-        TabHostWindow.addTab(TabMenu2);
     }
 
     protected void createLocationRequest() {
@@ -237,4 +222,21 @@ public class MainActivity extends AppCompatActivity {
         // TODO
     }
 
+    public void contest1(View v) {
+        Intent mIntent = new Intent(MainActivity.this, ContestDisplay.class);
+        Bundle mbundle = new Bundle();
+        String str = "This will show the details of the contest, like what is it related to, etc";
+        mbundle.putString("contest",""+str);
+        mIntent.putExtras(mbundle);
+        startActivity(mIntent);
+    }
+
+    public void contest2(View v) {
+        Intent mIntent = new Intent(MainActivity.this, ContestDisplay.class);
+        Bundle mbundle = new Bundle();
+        String str = "This will show the details of the contest, like what is it related to, etc";
+        mbundle.putString("contest",""+str);
+        mIntent.putExtras(mbundle);
+        startActivity(mIntent);
+    }
 }

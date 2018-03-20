@@ -57,7 +57,6 @@ import static android.Manifest.permission.READ_CONTACTS;
  */
 public class LoginActivity extends AppCompatActivity {
     FirebaseFirestore db =FirebaseFirestore.getInstance();
-    Button skip;
     private FirebaseAuth mAuth;
 
     // UI references.
@@ -122,15 +121,6 @@ public class LoginActivity extends AppCompatActivity {
                     return;
                 } else
                     attemptSignUp(email, password);
-            }
-        });
-
-        skip = (Button) findViewById(R.id.btnskip);
-        skip.setOnClickListener(new OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                startActivity(new Intent(LoginActivity.this, MainActivity.class));
-                finish();
             }
         });
 
