@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
                 user.put("born", 1815);
 
                 // Add a new document with a generated ID
-                db.collection("users")
+                db.collection("users/bad")
                         .add(user)
                         .addOnSuccessListener(new OnSuccessListener<DocumentReference>() {
                             @Override
