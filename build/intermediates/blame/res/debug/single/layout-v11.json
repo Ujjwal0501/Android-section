@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Punit\\Documents\\GitHub\\Android-section\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\008aa99e3433e081eb394deebf5cfa63\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
         "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
         "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\layout-v11\\notification_template_big_media.xml"
     },
@@ -12,12 +16,32 @@
         "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\layout-v11\\notification_media_cancel_action.xml"
     },
     {
+        "merged": "C:\\Users\\Punit\\Documents\\GitHub\\Android-section\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\008aa99e3433e081eb394deebf5cfa63\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
         "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
         "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
     },
     {
+        "merged": "C:\\Users\\Punit\\Documents\\GitHub\\Android-section\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\008aa99e3433e081eb394deebf5cfa63\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
         "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
         "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\52f74701cb367404689852566fa4b8b4\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Documents\\GitHub\\Android-section\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\008aa99e3433e081eb394deebf5cfa63\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Documents\\GitHub\\Android-section\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\008aa99e3433e081eb394deebf5cfa63\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Documents\\GitHub\\Android-section\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\008aa99e3433e081eb394deebf5cfa63\\res\\layout-v11\\notification_media_action.xml"
     },
     {
         "merged": "C:\\Users\\Punit\\Desktop\\New folder\\trial\\Rangilo2\\Rangilo\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",

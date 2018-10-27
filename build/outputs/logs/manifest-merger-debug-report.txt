@@ -1,19 +1,19 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:2:1-44:12
-INJECTED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:2:1-44:12
-INJECTED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:2:1-44:12
-INJECTED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:2:1-44:12
-MERGED from [:support-core-ui-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\6e6e94dcd52a7bd7565d7aa21410a961\AndroidManifest.xml:17:1-27:12
-MERGED from [:mapbox-android-telemetry-2-1-0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-2-1-0.aar\955c1359748b71a8a9ab2adab8b1865f\AndroidManifest.xml:2:1-21:12
-MERGED from [:support-core-utils-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\5f32519416cd8764cedd63637231acc9\AndroidManifest.xml:17:1-27:12
-MERGED from [:support-vector-drawable-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\9fac17c16be5dc6507d024f6c59773aa\AndroidManifest.xml:17:1-25:12
-MERGED from [:support-media-compat-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\59659c5adf02fba54cd66e0b5c01e168\AndroidManifest.xml:17:1-27:12
-MERGED from [:animated-vector-drawable-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\77847118ab32ceb4d250c3a734da6fc2\AndroidManifest.xml:17:1-24:12
-MERGED from [:support-v4-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\67cdf02ffb2b4c1f89463737bdefb8ce\AndroidManifest.xml:17:1-27:12
-MERGED from [:support-compat-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\4b5a7ae335932ce02269754b1788d2ca\AndroidManifest.xml:17:1-27:12
-MERGED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\489e33aa8164b916dc4e5d3fdcd4e726\AndroidManifest.xml:2:1-27:12
-MERGED from [:appcompat-v7-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\52f74701cb367404689852566fa4b8b4\AndroidManifest.xml:17:1-27:12
+ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:2:1-44:12
+MERGED from [:support-core-ui-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\8e7a685013f862de169086b5c681a6ab\AndroidManifest.xml:17:1-27:12
+MERGED from [:mapbox-android-telemetry-2-1-0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-2-1-0.aar\11243939d7750c509320ff5917a203fc\AndroidManifest.xml:2:1-21:12
+MERGED from [:support-core-utils-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\86600c8b00aad6696e643fadc5005076\AndroidManifest.xml:17:1-27:12
+MERGED from [:support-vector-drawable-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\176498258982821c37c8ccc651471895\AndroidManifest.xml:17:1-25:12
+MERGED from [:support-media-compat-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\3266ca56eb779f10b0c8e329a4fd7760\AndroidManifest.xml:17:1-27:12
+MERGED from [:animated-vector-drawable-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\65665e4db4bf4a600d2a1d725edc769a\AndroidManifest.xml:17:1-24:12
+MERGED from [:support-v4-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\e08a8fa3c3f050c564045ee1a49be10e\AndroidManifest.xml:17:1-27:12
+MERGED from [:support-compat-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\8c99b6b0cf5943b2b5c1dd19fe59fcc7\AndroidManifest.xml:17:1-27:12
+MERGED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\887815ec9047f6dfc976eeaef864b76c\AndroidManifest.xml:2:1-27:12
+MERGED from [:appcompat-v7-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\008aa99e3433e081eb394deebf5cfa63\AndroidManifest.xml:17:1-27:12
 MERGED from [com.google.firebase:firebase-firestore:11.8.0] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\firebase-firestore-11.8.0.aar\e1b87738dc2ec4a1cb6cb090a98e10a6\AndroidManifest.xml:2:1-8:12
 MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\db9162aaa4e92d5d7e30d06066d27a8d\AndroidManifest.xml:2:1-6:12
 MERGED from [com.android.support:multidex:1.0.3] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\e6a3a686d18cb25c15d02dd0da69c802\AndroidManifest.xml:17:1-22:12
@@ -107,61 +107,61 @@ MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Punit\.gr
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\327f5d5bbd67c6fdf7b930ebabb52754\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\62eeadf346d8b628f3d8a14d9bca4172\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3a87865615e59763aaa5546b71328835\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:2:1-44:12
-INJECTED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:2:1-44:12
-INJECTED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:2:1-44:12
 	package
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:2:70-96
-		INJECTED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:2:70-96
+		INJECTED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:2:144-169
-		INJECTED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:2:144-169
+		INJECTED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:2:97-143
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:2:97-143
 	xmlns:android
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:2:170-193
-		INJECTED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:2:170-193
+		INJECTED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml
 	android:installLocation
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:2:194-234
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:2:194-234
 supports-screens
-ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:3:3-163
+ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:3:3-163
 	android:largeScreens
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:3:78-105
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:3:78-105
 	android:smallScreens
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:3:21-48
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:3:21-48
 	android:normalScreens
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:3:49-77
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:3:49-77
 	android:xlargeScreens
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:3:106-134
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:3:106-134
 	android:anyDensity
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:3:135-160
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:3:135-160
 application
-ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:4:3-30:17
-MERGED from [:support-core-ui-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\6e6e94dcd52a7bd7565d7aa21410a961\AndroidManifest.xml:25:5-20
-MERGED from [:support-core-ui-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\6e6e94dcd52a7bd7565d7aa21410a961\AndroidManifest.xml:25:5-20
-MERGED from [:mapbox-android-telemetry-2-1-0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-2-1-0.aar\955c1359748b71a8a9ab2adab8b1865f\AndroidManifest.xml:12:5-14:19
-MERGED from [:mapbox-android-telemetry-2-1-0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-2-1-0.aar\955c1359748b71a8a9ab2adab8b1865f\AndroidManifest.xml:12:5-14:19
-MERGED from [:support-core-utils-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\5f32519416cd8764cedd63637231acc9\AndroidManifest.xml:25:5-20
-MERGED from [:support-core-utils-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\5f32519416cd8764cedd63637231acc9\AndroidManifest.xml:25:5-20
-MERGED from [:support-vector-drawable-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\9fac17c16be5dc6507d024f6c59773aa\AndroidManifest.xml:23:5-20
-MERGED from [:support-vector-drawable-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\9fac17c16be5dc6507d024f6c59773aa\AndroidManifest.xml:23:5-20
-MERGED from [:support-media-compat-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\59659c5adf02fba54cd66e0b5c01e168\AndroidManifest.xml:25:5-20
-MERGED from [:support-media-compat-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\59659c5adf02fba54cd66e0b5c01e168\AndroidManifest.xml:25:5-20
-MERGED from [:animated-vector-drawable-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\77847118ab32ceb4d250c3a734da6fc2\AndroidManifest.xml:22:5-20
-MERGED from [:animated-vector-drawable-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\77847118ab32ceb4d250c3a734da6fc2\AndroidManifest.xml:22:5-20
-MERGED from [:support-v4-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\67cdf02ffb2b4c1f89463737bdefb8ce\AndroidManifest.xml:25:5-20
-MERGED from [:support-v4-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\67cdf02ffb2b4c1f89463737bdefb8ce\AndroidManifest.xml:25:5-20
-MERGED from [:support-compat-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\4b5a7ae335932ce02269754b1788d2ca\AndroidManifest.xml:25:5-20
-MERGED from [:support-compat-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\4b5a7ae335932ce02269754b1788d2ca\AndroidManifest.xml:25:5-20
-MERGED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\489e33aa8164b916dc4e5d3fdcd4e726\AndroidManifest.xml:19:5-25:19
-MERGED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\489e33aa8164b916dc4e5d3fdcd4e726\AndroidManifest.xml:19:5-25:19
-MERGED from [:appcompat-v7-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\52f74701cb367404689852566fa4b8b4\AndroidManifest.xml:25:5-20
-MERGED from [:appcompat-v7-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\52f74701cb367404689852566fa4b8b4\AndroidManifest.xml:25:5-20
+ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:4:3-30:17
+MERGED from [:support-core-ui-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\8e7a685013f862de169086b5c681a6ab\AndroidManifest.xml:25:5-20
+MERGED from [:support-core-ui-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\8e7a685013f862de169086b5c681a6ab\AndroidManifest.xml:25:5-20
+MERGED from [:mapbox-android-telemetry-2-1-0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-2-1-0.aar\11243939d7750c509320ff5917a203fc\AndroidManifest.xml:12:5-14:19
+MERGED from [:mapbox-android-telemetry-2-1-0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-2-1-0.aar\11243939d7750c509320ff5917a203fc\AndroidManifest.xml:12:5-14:19
+MERGED from [:support-core-utils-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\86600c8b00aad6696e643fadc5005076\AndroidManifest.xml:25:5-20
+MERGED from [:support-core-utils-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\86600c8b00aad6696e643fadc5005076\AndroidManifest.xml:25:5-20
+MERGED from [:support-vector-drawable-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\176498258982821c37c8ccc651471895\AndroidManifest.xml:23:5-20
+MERGED from [:support-vector-drawable-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\176498258982821c37c8ccc651471895\AndroidManifest.xml:23:5-20
+MERGED from [:support-media-compat-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\3266ca56eb779f10b0c8e329a4fd7760\AndroidManifest.xml:25:5-20
+MERGED from [:support-media-compat-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\3266ca56eb779f10b0c8e329a4fd7760\AndroidManifest.xml:25:5-20
+MERGED from [:animated-vector-drawable-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\65665e4db4bf4a600d2a1d725edc769a\AndroidManifest.xml:22:5-20
+MERGED from [:animated-vector-drawable-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\65665e4db4bf4a600d2a1d725edc769a\AndroidManifest.xml:22:5-20
+MERGED from [:support-v4-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\e08a8fa3c3f050c564045ee1a49be10e\AndroidManifest.xml:25:5-20
+MERGED from [:support-v4-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\e08a8fa3c3f050c564045ee1a49be10e\AndroidManifest.xml:25:5-20
+MERGED from [:support-compat-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\8c99b6b0cf5943b2b5c1dd19fe59fcc7\AndroidManifest.xml:25:5-20
+MERGED from [:support-compat-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\8c99b6b0cf5943b2b5c1dd19fe59fcc7\AndroidManifest.xml:25:5-20
+MERGED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\887815ec9047f6dfc976eeaef864b76c\AndroidManifest.xml:19:5-25:19
+MERGED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\887815ec9047f6dfc976eeaef864b76c\AndroidManifest.xml:19:5-25:19
+MERGED from [:appcompat-v7-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\008aa99e3433e081eb394deebf5cfa63\AndroidManifest.xml:25:5-20
+MERGED from [:appcompat-v7-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\008aa99e3433e081eb394deebf5cfa63\AndroidManifest.xml:25:5-20
 MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\db9162aaa4e92d5d7e30d06066d27a8d\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\db9162aaa4e92d5d7e30d06066d27a8d\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\e4223e6a24416d35619f87253aab68d9\AndroidManifest.xml:7:5-20
@@ -277,124 +277,124 @@ MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\User
 MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\0896b7b11ef07ef7d4e61f77f6456d3b\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\0896b7b11ef07ef7d4e61f77f6456d3b\AndroidManifest.xml:5:5-20
 	android:label
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:4:92-124
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:4:92-124
 	android:debuggable
-		ADDED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\489e33aa8164b916dc4e5d3fdcd4e726\AndroidManifest.xml:19:18-44
+		ADDED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\887815ec9047f6dfc976eeaef864b76c\AndroidManifest.xml:19:18-44
 	android:icon
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:4:58-91
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:4:58-91
 	android:banner
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:4:147-184
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:4:147-184
 	android:theme
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:4:16-57
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:4:16-57
 	android:isGame
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:4:125-146
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:4:125-146
 activity#com.adid.Rangilo.UnityPlayerActivity
-ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:5:5-8:16
+ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:5:5-8:16
 	android:screenOrientation
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:5:48-86
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:5:48-86
 	android:label
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:5:15-47
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:5:15-47
 	android:launchMode
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:5:87-118
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:5:87-118
 	android:configChanges
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:5:119-300
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:5:119-300
 	android:name
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:5:301-352
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:5:301-352
 meta-data#unityplayer.UnityActivity
-ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:7:7-82
+ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:7:7-82
 	android:value
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:7:59-79
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:7:59-79
 	android:name
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:7:18-58
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:7:18-58
 activity#com.adid.Rangilo.ContestDisplay
-ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:9:5-11:47
+ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:9:5-11:47
 	android:screenOrientation
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:11:9-45
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:11:9-45
 	android:theme
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:10:9-40
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:10:9-40
 	android:name
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:9:15-61
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:9:15-61
 activity#com.adid.Rangilo.Explore
-ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:12:5-14:47
+ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:12:5-14:47
 	android:screenOrientation
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:14:9-45
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:14:9-45
 	android:theme
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:13:9-40
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:13:9-40
 	android:name
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:12:15-54
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:12:15-54
 activity#com.adid.Rangilo.MainActivity
-ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:15:5-17:47
+ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:15:5-17:47
 	android:screenOrientation
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:17:9-45
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:17:9-45
 	android:theme
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:16:9-40
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:16:9-40
 	android:name
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:15:15-59
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:15:15-59
 activity#com.adid.Rangilo.LoginActivity
-ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:18:5-25:16
+ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:18:5-25:16
 	android:screenOrientation
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:20:9-45
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:20:9-45
 	android:theme
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:19:9-40
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:19:9-40
 	android:name
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:18:15-60
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:18:15-60
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:21:7-24:23
+ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:21:7-24:23
 action#android.intent.action.MAIN
-ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:22:9-61
+ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:22:9-61
 	android:name
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:22:17-58
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:22:17-58
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:23:9-69
+ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:23:9-69
 	android:name
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:23:19-66
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:23:19-66
 meta-data#unity.build-id
-ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:26:5-101
+ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:26:5-101
 	android:value
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:26:46-98
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:26:46-98
 	android:name
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:26:16-45
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:26:16-45
 meta-data#unity.splash-mode
-ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:27:5-69
+ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:27:5-69
 	android:value
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:27:49-66
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:27:49-66
 	android:name
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:27:16-48
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:27:16-48
 meta-data#unity.splash-enable
-ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:28:5-74
+ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:28:5-74
 	android:value
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:28:51-71
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:28:51-71
 	android:name
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:28:16-50
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:28:16-50
 meta-data#android.max_aspect
-ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:29:5-72
+ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:29:5-72
 	android:value
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:29:50-69
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:29:50-69
 	android:name
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:29:16-49
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:29:16-49
 uses-sdk
-ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:31:3-72
-INJECTED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:31:3-72
-MERGED from [:support-core-ui-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\6e6e94dcd52a7bd7565d7aa21410a961\AndroidManifest.xml:21:5-23:58
-MERGED from [:support-core-ui-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\6e6e94dcd52a7bd7565d7aa21410a961\AndroidManifest.xml:21:5-23:58
-MERGED from [:mapbox-android-telemetry-2-1-0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-2-1-0.aar\955c1359748b71a8a9ab2adab8b1865f\AndroidManifest.xml:8:5-10:41
-MERGED from [:mapbox-android-telemetry-2-1-0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-2-1-0.aar\955c1359748b71a8a9ab2adab8b1865f\AndroidManifest.xml:8:5-10:41
-MERGED from [:support-core-utils-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\5f32519416cd8764cedd63637231acc9\AndroidManifest.xml:21:5-23:61
-MERGED from [:support-core-utils-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\5f32519416cd8764cedd63637231acc9\AndroidManifest.xml:21:5-23:61
-MERGED from [:support-vector-drawable-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\9fac17c16be5dc6507d024f6c59773aa\AndroidManifest.xml:21:5-43
-MERGED from [:support-vector-drawable-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\9fac17c16be5dc6507d024f6c59773aa\AndroidManifest.xml:21:5-43
-MERGED from [:support-media-compat-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\59659c5adf02fba54cd66e0b5c01e168\AndroidManifest.xml:21:5-23:63
-MERGED from [:support-media-compat-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\59659c5adf02fba54cd66e0b5c01e168\AndroidManifest.xml:21:5-23:63
-MERGED from [:animated-vector-drawable-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\77847118ab32ceb4d250c3a734da6fc2\AndroidManifest.xml:20:5-44
-MERGED from [:animated-vector-drawable-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\77847118ab32ceb4d250c3a734da6fc2\AndroidManifest.xml:20:5-44
-MERGED from [:support-v4-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\67cdf02ffb2b4c1f89463737bdefb8ce\AndroidManifest.xml:21:5-23:54
-MERGED from [:support-v4-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\67cdf02ffb2b4c1f89463737bdefb8ce\AndroidManifest.xml:21:5-23:54
-MERGED from [:support-compat-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\4b5a7ae335932ce02269754b1788d2ca\AndroidManifest.xml:21:5-23:58
-MERGED from [:support-compat-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\4b5a7ae335932ce02269754b1788d2ca\AndroidManifest.xml:21:5-23:58
-MERGED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\489e33aa8164b916dc4e5d3fdcd4e726\AndroidManifest.xml:8:5-10:41
-MERGED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\489e33aa8164b916dc4e5d3fdcd4e726\AndroidManifest.xml:8:5-10:41
-MERGED from [:appcompat-v7-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\52f74701cb367404689852566fa4b8b4\AndroidManifest.xml:21:5-23:78
-MERGED from [:appcompat-v7-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\52f74701cb367404689852566fa4b8b4\AndroidManifest.xml:21:5-23:78
+ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:31:3-72
+INJECTED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:31:3-72
+MERGED from [:support-core-ui-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\8e7a685013f862de169086b5c681a6ab\AndroidManifest.xml:21:5-23:58
+MERGED from [:support-core-ui-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\8e7a685013f862de169086b5c681a6ab\AndroidManifest.xml:21:5-23:58
+MERGED from [:mapbox-android-telemetry-2-1-0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-2-1-0.aar\11243939d7750c509320ff5917a203fc\AndroidManifest.xml:8:5-10:41
+MERGED from [:mapbox-android-telemetry-2-1-0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-2-1-0.aar\11243939d7750c509320ff5917a203fc\AndroidManifest.xml:8:5-10:41
+MERGED from [:support-core-utils-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\86600c8b00aad6696e643fadc5005076\AndroidManifest.xml:21:5-23:61
+MERGED from [:support-core-utils-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\86600c8b00aad6696e643fadc5005076\AndroidManifest.xml:21:5-23:61
+MERGED from [:support-vector-drawable-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\176498258982821c37c8ccc651471895\AndroidManifest.xml:21:5-43
+MERGED from [:support-vector-drawable-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\176498258982821c37c8ccc651471895\AndroidManifest.xml:21:5-43
+MERGED from [:support-media-compat-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\3266ca56eb779f10b0c8e329a4fd7760\AndroidManifest.xml:21:5-23:63
+MERGED from [:support-media-compat-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\3266ca56eb779f10b0c8e329a4fd7760\AndroidManifest.xml:21:5-23:63
+MERGED from [:animated-vector-drawable-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\65665e4db4bf4a600d2a1d725edc769a\AndroidManifest.xml:20:5-44
+MERGED from [:animated-vector-drawable-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\65665e4db4bf4a600d2a1d725edc769a\AndroidManifest.xml:20:5-44
+MERGED from [:support-v4-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\e08a8fa3c3f050c564045ee1a49be10e\AndroidManifest.xml:21:5-23:54
+MERGED from [:support-v4-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\e08a8fa3c3f050c564045ee1a49be10e\AndroidManifest.xml:21:5-23:54
+MERGED from [:support-compat-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\8c99b6b0cf5943b2b5c1dd19fe59fcc7\AndroidManifest.xml:21:5-23:58
+MERGED from [:support-compat-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\8c99b6b0cf5943b2b5c1dd19fe59fcc7\AndroidManifest.xml:21:5-23:58
+MERGED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\887815ec9047f6dfc976eeaef864b76c\AndroidManifest.xml:8:5-10:41
+MERGED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\887815ec9047f6dfc976eeaef864b76c\AndroidManifest.xml:8:5-10:41
+MERGED from [:appcompat-v7-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\008aa99e3433e081eb394deebf5cfa63\AndroidManifest.xml:21:5-23:78
+MERGED from [:appcompat-v7-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\008aa99e3433e081eb394deebf5cfa63\AndroidManifest.xml:21:5-23:78
 MERGED from [com.google.firebase:firebase-firestore:11.8.0] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\firebase-firestore-11.8.0.aar\e1b87738dc2ec4a1cb6cb090a98e10a6\AndroidManifest.xml:6:5-44
 MERGED from [com.google.firebase:firebase-firestore:11.8.0] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\firebase-firestore-11.8.0.aar\e1b87738dc2ec4a1cb6cb090a98e10a6\AndroidManifest.xml:6:5-44
 MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\db9162aaa4e92d5d7e30d06066d27a8d\AndroidManifest.xml:4:5-43
@@ -581,29 +581,29 @@ MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Punit\.gradle\cach
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\62eeadf346d8b628f3d8a14d9bca4172\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3a87865615e59763aaa5546b71328835\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3a87865615e59763aaa5546b71328835\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:31:3-72
+INJECTED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:31:3-72
 	tools:overrideLibrary
-		ADDED from [:support-core-ui-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\6e6e94dcd52a7bd7565d7aa21410a961\AndroidManifest.xml:23:9-55
+		ADDED from [:support-core-ui-25.1.0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\8e7a685013f862de169086b5c681a6ab\AndroidManifest.xml:23:9-55
 	android:targetSdkVersion
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:31:40-69
-		INJECTED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:31:40-69
+		INJECTED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:31:13-39
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:31:13-39
 uses-feature#0x00020000
-ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:32:3-52
+ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:32:3-52
 MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\c6bb66eebf44b8daec1037df4c178fae\AndroidManifest.xml:26:5-28:35
 MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\c6bb66eebf44b8daec1037df4c178fae\AndroidManifest.xml:26:5-28:35
 	android:glEsVersion
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:32:17-49
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:32:17-49
 	android:required
 		ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\c6bb66eebf44b8daec1037df4c178fae\AndroidManifest.xml:28:9-32
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:33:3-65
-MERGED from [:mapbox-android-telemetry-2-1-0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-2-1-0.aar\955c1359748b71a8a9ab2adab8b1865f\AndroidManifest.xml:16:5-67
-MERGED from [:mapbox-android-telemetry-2-1-0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-2-1-0.aar\955c1359748b71a8a9ab2adab8b1865f\AndroidManifest.xml:16:5-67
-MERGED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\489e33aa8164b916dc4e5d3fdcd4e726\AndroidManifest.xml:14:5-67
-MERGED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\489e33aa8164b916dc4e5d3fdcd4e726\AndroidManifest.xml:14:5-67
+ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:33:3-65
+MERGED from [:mapbox-android-telemetry-2-1-0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-2-1-0.aar\11243939d7750c509320ff5917a203fc\AndroidManifest.xml:16:5-67
+MERGED from [:mapbox-android-telemetry-2-1-0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-2-1-0.aar\11243939d7750c509320ff5917a203fc\AndroidManifest.xml:16:5-67
+MERGED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\887815ec9047f6dfc976eeaef864b76c\AndroidManifest.xml:14:5-67
+MERGED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\887815ec9047f6dfc976eeaef864b76c\AndroidManifest.xml:14:5-67
 MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\c6bb66eebf44b8daec1037df4c178fae\AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\c6bb66eebf44b8daec1037df4c178fae\AndroidManifest.xml:24:5-67
 MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\bd3a3569717c204085a9d75000433180\AndroidManifest.xml:23:5-67
@@ -613,82 +613,82 @@ MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Punit\
 MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e1c6822e932ba23461df5dd58b7beff1\AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e1c6822e932ba23461df5dd58b7beff1\AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:33:20-62
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:33:20-62
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:34:3-77
-MERGED from [:mapbox-android-telemetry-2-1-0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-2-1-0.aar\955c1359748b71a8a9ab2adab8b1865f\AndroidManifest.xml:17:5-79
-MERGED from [:mapbox-android-telemetry-2-1-0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-2-1-0.aar\955c1359748b71a8a9ab2adab8b1865f\AndroidManifest.xml:17:5-79
+ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:34:3-77
+MERGED from [:mapbox-android-telemetry-2-1-0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-2-1-0.aar\11243939d7750c509320ff5917a203fc\AndroidManifest.xml:17:5-79
+MERGED from [:mapbox-android-telemetry-2-1-0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-2-1-0.aar\11243939d7750c509320ff5917a203fc\AndroidManifest.xml:17:5-79
 	android:name
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:34:20-74
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:34:20-74
 uses-feature#android.hardware.location.gps
-ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:35:3-89
+ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:35:3-89
 	android:required
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:35:62-86
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:35:62-86
 	android:name
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:35:17-61
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:35:17-61
 uses-feature#android.hardware.location
-ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:36:3-85
+ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:36:3-85
 	android:required
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:36:58-82
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:36:58-82
 	android:name
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:36:17-57
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:36:17-57
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:37:3-63
-MERGED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\489e33aa8164b916dc4e5d3fdcd4e726\AndroidManifest.xml:15:5-65
-MERGED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\489e33aa8164b916dc4e5d3fdcd4e726\AndroidManifest.xml:15:5-65
+ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:37:3-63
+MERGED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\887815ec9047f6dfc976eeaef864b76c\AndroidManifest.xml:15:5-65
+MERGED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\887815ec9047f6dfc976eeaef864b76c\AndroidManifest.xml:15:5-65
 	android:name
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:37:20-60
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:37:20-60
 uses-feature#android.hardware.camera
-ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:38:3-83
-MERGED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\489e33aa8164b916dc4e5d3fdcd4e726\AndroidManifest.xml:12:5-60
-MERGED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\489e33aa8164b916dc4e5d3fdcd4e726\AndroidManifest.xml:12:5-60
+ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:38:3-83
+MERGED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\887815ec9047f6dfc976eeaef864b76c\AndroidManifest.xml:12:5-60
+MERGED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\887815ec9047f6dfc976eeaef864b76c\AndroidManifest.xml:12:5-60
 	android:required
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:38:56-80
-		MERGED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:38:56-80
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:38:56-80
+		MERGED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:38:56-80
 	android:name
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:38:17-55
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:38:17-55
 uses-feature#android.hardware.camera.autofocus
-ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:39:3-93
+ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:39:3-93
 	android:required
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:39:66-90
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:39:66-90
 	android:name
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:39:17-65
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:39:17-65
 uses-feature#android.hardware.camera.front
-ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:40:3-89
+ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:40:3-89
 	android:required
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:40:62-86
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:40:62-86
 	android:name
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:40:17-61
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:40:17-61
 uses-feature#android.hardware.touchscreen
-ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:41:3-88
+ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:41:3-88
 	android:required
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:41:61-85
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:41:61-85
 	android:name
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:41:17-60
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:41:17-60
 uses-feature#android.hardware.touchscreen.multitouch
-ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:42:3-99
+ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:42:3-99
 	android:required
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:42:72-96
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:42:72-96
 	android:name
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:42:17-71
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:42:17-71
 uses-feature#android.hardware.touchscreen.multitouch.distinct
-ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:43:3-108
+ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:43:3-108
 	android:required
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:43:81-105
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:43:81-105
 	android:name
-		ADDED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:43:17-80
+		ADDED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:43:17-80
 service#com.mapbox.services.android.telemetry.service.TelemetryService
-ADDED from [:mapbox-android-telemetry-2-1-0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-2-1-0.aar\955c1359748b71a8a9ab2adab8b1865f\AndroidManifest.xml:13:9-97
+ADDED from [:mapbox-android-telemetry-2-1-0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-2-1-0.aar\11243939d7750c509320ff5917a203fc\AndroidManifest.xml:13:9-97
 	android:name
-		ADDED from [:mapbox-android-telemetry-2-1-0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-2-1-0.aar\955c1359748b71a8a9ab2adab8b1865f\AndroidManifest.xml:13:18-95
+		ADDED from [:mapbox-android-telemetry-2-1-0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-2-1-0.aar\11243939d7750c509320ff5917a203fc\AndroidManifest.xml:13:18-95
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from [:mapbox-android-telemetry-2-1-0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-2-1-0.aar\955c1359748b71a8a9ab2adab8b1865f\AndroidManifest.xml:18:5-80
+ADDED from [:mapbox-android-telemetry-2-1-0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-2-1-0.aar\11243939d7750c509320ff5917a203fc\AndroidManifest.xml:18:5-80
 	android:name
-		ADDED from [:mapbox-android-telemetry-2-1-0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-2-1-0.aar\955c1359748b71a8a9ab2adab8b1865f\AndroidManifest.xml:18:22-78
+		ADDED from [:mapbox-android-telemetry-2-1-0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-2-1-0.aar\11243939d7750c509320ff5917a203fc\AndroidManifest.xml:18:22-78
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:mapbox-android-telemetry-2-1-0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-2-1-0.aar\955c1359748b71a8a9ab2adab8b1865f\AndroidManifest.xml:19:5-78
-MERGED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\489e33aa8164b916dc4e5d3fdcd4e726\AndroidManifest.xml:16:5-79
-MERGED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\489e33aa8164b916dc4e5d3fdcd4e726\AndroidManifest.xml:16:5-79
+ADDED from [:mapbox-android-telemetry-2-1-0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-2-1-0.aar\11243939d7750c509320ff5917a203fc\AndroidManifest.xml:19:5-78
+MERGED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\887815ec9047f6dfc976eeaef864b76c\AndroidManifest.xml:16:5-79
+MERGED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\887815ec9047f6dfc976eeaef864b76c\AndroidManifest.xml:16:5-79
 MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\c6bb66eebf44b8daec1037df4c178fae\AndroidManifest.xml:23:5-79
 MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\c6bb66eebf44b8daec1037df4c178fae\AndroidManifest.xml:23:5-79
 MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\bd3a3569717c204085a9d75000433180\AndroidManifest.xml:24:5-79
@@ -698,19 +698,19 @@ MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Punit\
 MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e1c6822e932ba23461df5dd58b7beff1\AndroidManifest.xml:22:5-79
 MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\e1c6822e932ba23461df5dd58b7beff1\AndroidManifest.xml:22:5-79
 	android:name
-		ADDED from [:mapbox-android-telemetry-2-1-0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-2-1-0.aar\955c1359748b71a8a9ab2adab8b1865f\AndroidManifest.xml:19:22-76
+		ADDED from [:mapbox-android-telemetry-2-1-0:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\mapbox-android-telemetry-2-1-0.aar\11243939d7750c509320ff5917a203fc\AndroidManifest.xml:19:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\489e33aa8164b916dc4e5d3fdcd4e726\AndroidManifest.xml:17:5-81
+ADDED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\887815ec9047f6dfc976eeaef864b76c\AndroidManifest.xml:17:5-81
 	android:name
-		ADDED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\489e33aa8164b916dc4e5d3fdcd4e726\AndroidManifest.xml:17:22-78
+		ADDED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\887815ec9047f6dfc976eeaef864b76c\AndroidManifest.xml:17:22-78
 uses-library#com.osterhoutgroup.api.ext
-ADDED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\489e33aa8164b916dc4e5d3fdcd4e726\AndroidManifest.xml:22:9-24:40
+ADDED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\887815ec9047f6dfc976eeaef864b76c\AndroidManifest.xml:22:9-24:40
 	android:required
-		ADDED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\489e33aa8164b916dc4e5d3fdcd4e726\AndroidManifest.xml:24:13-37
+		ADDED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\887815ec9047f6dfc976eeaef864b76c\AndroidManifest.xml:24:13-37
 	android:name
-		ADDED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\489e33aa8164b916dc4e5d3fdcd4e726\AndroidManifest.xml:23:13-54
+		ADDED from [:VuforiaWrapper:] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\887815ec9047f6dfc976eeaef864b76c\AndroidManifest.xml:23:13-54
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from C:\Users\Punit\Desktop\New folder\trial\Rangilo2\Rangilo\src\main\AndroidManifest.xml:2:1-44:12 reason: com.unity3d.player requested WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Punit\Documents\GitHub\Android-section\src\main\AndroidManifest.xml:2:1-44:12 reason: com.unity3d.player requested WRITE_EXTERNAL_STORAGE
 activity#com.google.firebase.auth.internal.FederatedSignInActivity
 ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Punit\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\5d71e2d952c611585faf6cdc745c0dbe\AndroidManifest.xml:23:9-29:75
 	android:excludeFromRecents
